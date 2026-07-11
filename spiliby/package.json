@@ -1,0 +1,39 @@
+{
+  "name": "spiliby",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Kartikey",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "Offline-first expense sharing app for small groups. Free to use, no accounts required, and protected as proprietary software.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dexie": "^4.4.4",
+    "dexie-react-hooks": "^4.4.0",
+    "html5-qrcode": "^2.3.8",
+    "jsqr": "^1.4.0",
+    "lucide-react": "^1.24.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.18.1",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.2",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "autoprefixer": "^10.5.2",
+    "oxlint": "^1.71.0",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^4.3.2",
+    "vite": "^8.1.1",
+    "vite-plugin-pwa": "^1.3.0"
+  }
+}
