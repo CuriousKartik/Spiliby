@@ -14,7 +14,7 @@ export default function Layout() {
       <main className="flex-1 max-w-lg mx-auto w-full px-4 pt-6 pb-32">
         <Outlet />
         <p className="mt-6 text-center text-[11px] text-dusty-denim-500 dark:text-dusty-denim-600">
-          Made with <span className="text-red-500">♥</span> by Kartikey
+          Made with <span className="text-red-500">♥</span> by Kartikey & Junaid
         </p>
         <p className="mt-2 text-center text-[10px] text-dusty-denim-400 dark:text-dusty-denim-500">
           Free to use · no passwords · no copying as your own
