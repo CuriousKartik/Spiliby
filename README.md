@@ -20,7 +20,7 @@ No backend, no login — everything is stored locally in IndexedDB on the device
 
 ## 📲 Download the App
 
-[![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](Spiliby_app/spiliby/spiliby.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/CuriousKartik/Spiliby/raw/refs/heads/main/Spiliby_app/spiliby/spiliby.apk)
 
 
 ### 📸 App Screenshots
