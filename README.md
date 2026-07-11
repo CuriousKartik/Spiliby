@@ -18,6 +18,16 @@ No backend, no login — everything is stored locally in IndexedDB on the device
 
 ---
 
+## 📲 Download the App
+
+[![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](Spiliby_app/spiliby/spiliby.apk)
+
+
+### 📸 App Screenshots
+![Spiliby app screenshots](Spiliby_app/spiliby/app_screenshots.jpeg)
+
+---
+
 ## 🔄 How Offline Sync Works
 1. **Create your group and add expenses** on one phone.  
 2. Open **Settings → Share via QR**.  
@@ -32,6 +42,7 @@ If QR sharing is too large, use the JSON export/import flow instead.
 ```bash
 npm install
 npm run dev
+```
 
 ## 📜 License
 Copyright © 2026 Kartikey  
