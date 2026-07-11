@@ -31,7 +31,7 @@ export default function Onboarding() {
           <input
             value={btId}
             onChange={(e) => setBtId(e.target.value)}
-            placeholder="BT ID (e.g. BT25ACS032)"
+            placeholder="BT ID (e.g. BT25CSE032)"
             className="w-full rounded-2xl bg-white dark:bg-deep-space-blue-400 border border-dusty-denim-200 dark:border-deep-space-blue-200 px-4 py-3.5 text-sm outline-none focus:border-blue-slate-500 uppercase placeholder:normal-case text-ink-black-500 dark:text-eggshell-600"
           />
         </div>
